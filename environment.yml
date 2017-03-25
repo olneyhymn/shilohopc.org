@@ -1,0 +1,9 @@
+name: newshiloh
+dependencies:
+- pip
+- python=2
+- pip:
+  - fabric
+  - pelican
+  - markdown
+  - bumpversion
