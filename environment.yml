@@ -7,3 +7,4 @@ dependencies:
   - pelican
   - markdown
   - bumpversion
+  - webassets

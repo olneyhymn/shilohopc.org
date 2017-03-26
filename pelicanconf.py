@@ -38,8 +38,9 @@ THEME = './pelican-bootstrap3'
 BOOTSTRAP_THEME = 'simplex'
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 PLUGIN_PATHS = ['./pelican-plugins']
-PLUGINS = ['i18n_subsites']
-BOOTSTRAP_FLUID = True
+PLUGINS = ['i18n_subsites', 'assets']
+WEBASSETS = True
+BOOTSTRAP_FLUID = False
 
 
 CUSTOM_CSS = 'static/custom.css'
@@ -50,3 +51,4 @@ HIDE_SITENAME = True
 
 # Body
 HIDE_SIDEBAR = True
+BANNER = 'static/skyline_20.jpg'

@@ -1,5 +1,48 @@
+
 body {
-    font-size: 15px;
     font-family: 'quicksand', Arial, sans serif;
     font-weight: normal;
+}
+
+body {
+    background: url(subtle_dots.png) repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'quicksand', Arial, sans serif;
+}
+
+#banner {
+    position: relative;
+    text-align: center;
+    background: url(images/skyline_20.jpg) 0px -230px no-repeat;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+    clear:both;
+    color: black;
+}
+
+@media (min-width: 767px) {
+    #banner{
+        padding: 50px;
+    }
+    #welcome {
+        width: 54%;
+        min-width: 600px;
+    }
+}
+
+
+#welcome h1 {
+    font-weight: normal;
+    font-family: 'quicksand', Arial, sans serif;
+    font-size: 30px;
+    color: black;
+}
+#welcome p {
+    margin: 15px 0;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    text-shadow: 1px 1px #ddd;
 }
