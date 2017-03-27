@@ -7,6 +7,7 @@ SITENAME = u'Shiloh Presbyterian Church'
 SITEURL = ''
 
 PATH = 'content'
+MARKUP = ('md', 'html')
 STATIC_PATHS = ['./static']
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -51,8 +52,8 @@ HIDE_SITENAME = True
 
 # Body
 HIDE_SIDEBAR = True
+INDEX_SAVE_AS = None
 BANNER = 'static/skyline_20.jpg'
-
 OFFICERS = [("Matthew Holst", "matthew.holst@shilohopc.org", "Matthew Holst served as pastor of Geneva Orthodox Presbyterian Church in Marietta, Georgia from 2010 to 2016; before that he ministered in Cambridge Presbyterian Church (UK) for one year. Matt is a 2008 graduate of Greenville Presbyterian Theological Seminary. His wife, Stacy is a native of Greenville SC and together they have four children. He was installed as senior pastor of Shiloh in June 2016. ", "Pastor", 'holst'),
             ("Irfon Hughes", "irfon.hughes@shilohopc.org",
              "Irfon and Ann Hughes and their 5 children came to the USA in 1984. He is a Welsh speaking Welsh American. They have been married for 47 years and have 16 grandchildren. Irfon pastored 2 congregations in Massachusetts and Western Pennsylvania, and retired in 2008. However retirement has been hard to achieve and has been an assistant pastor in Providence PCA in Fayetteville NC and more recently has become associate pastor at Shiloh OPC in Raleigh. He and Ann have moved to Fuquay Varina NC. He still loves to preach, read History, historical theology, supports missionary endeavor and pastoral studies, and plays golf, in that order. He is getting ever closer to meeting his Lord and looks forward to that.", "Pastor", 'hughes'),
