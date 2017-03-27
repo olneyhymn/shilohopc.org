@@ -79,7 +79,7 @@
     {% if TYPOGRIFY %}
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/typogrify.css" rel="stylesheet">
     {% endif %}
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/>
+    <!-- <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/> -->
     {% if CUSTOM_CSS %}
         <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
     {% endif %}
@@ -175,7 +175,7 @@
     {% block banner %}{% endblock %}
 {% endif %}
 <!-- End Banner -->
-<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %} main_container">
     <div class="row">
         {% if not HIDE_SIDEBAR or ABOUT_ME or AVATAR %}
         <div class="col-sm-9">

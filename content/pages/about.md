@@ -3,6 +3,7 @@ Slug: about
 Author:
 
 ## Our Distinctives
+
 ### Preaching
 
 We believe that the preaching of God’s word is his chosen means to convert sinners and build up his people. We believe in verse-by-verse exposition and application of the Bible, otherwise known as expository preaching. We strive to be a church that preaches God’s word plainly and powerfully. Moreover, we believe that preaching is a vital part of our evangelistic outreach to the lost. It is by the hearing of the Word that souls are saved, in God’s wonderful providence (cf. Romans 10:14-17).
@@ -15,7 +16,7 @@ We believe that the church prayer meeting is the place where God acts in respons
 
 We are committed to being a church that shepherds the flock. We see that happening by regular in-home pastoral visitation so that the sheep of Christ are encouraged and known by the elders of the church. All members of Shiloh are assigned an elder who regularly checks in on them. We do not believe that the church is a place to remain anonymous but a community of believers who are under the care of men called to look after their souls as those who must give an account (cf. Heb 13:17).
 
-J. Gresham Machen -- co-founder of the Orthodox Presbyterian Church J. Gresham Machen — co-founder of the Orthodox Presbyterian Church Our History
+### Our History
 
 Shiloh Presbyterian Church began meeting in Cary, North Carolina in June 2010 as a mission work of the Orthodox Presbyterian Church (OPC). From the outset, the vision was well-defined: faithful, clear, God-centered preaching in the context of Reformed worship for the building up of the saints and the conversion of the lost.
 

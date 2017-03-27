@@ -2,7 +2,7 @@ Title: Events
 Slug: events
 Author:
 
-## Our Beliefs
+<h2 class="page_head">Events</h2>
 
 Our system of doctrine is the Reformed faith, also called Calvinism (because Calvin was the most important exponent of it during the Reformation). It pulls together the most significant doctrines taught in the Bible. These doctrines are set forth in the Westminster Confession of Faith and the Larger and Shorter Catechisms (with accompanying biblical references). Our system of doctrine is summarized in the following paragraphs.
 

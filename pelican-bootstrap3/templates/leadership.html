@@ -1,0 +1,32 @@
+{% extends "page.html" %}
+
+{% block content %}
+    <section id="content" class="body">
+
+
+        <div id="page_tab" class="mobile-hide">
+            <div id="page_tab_img">
+                <img alt="page icon" src="{{ SITEURL }}/static/{{ page.slug }}.png">
+            </div>
+            <p class="page_tab_text">{{ page.title }}</p>
+        </div>
+        <div class="entry-content">
+            {% for officer in OFFICERS %}
+                <div class="row">
+                    <div class="col-xs-3 thumbnail profile_pic">
+                        <img src="/static/{{ officer[4] }}.jpg" alt="{{ officer[0] }} Profile Picture" />
+                    </div>
+                    <div class="col-xs-9">
+                        <div class="profile_name_box {{ officer[3] | lower }}">
+                        <h4 class="profile_name">{{ officer[0] }} ({{ officer[3] }})</h4>
+                        </div>
+                        <p><a href="mailto:{{ officer[1] }}">{{ officer[1] }} </a></p>
+                        <hr class="profile_bar">
+                        <p>{{ officer[2] }}</p>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </section>
+{% endblock %}

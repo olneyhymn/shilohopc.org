@@ -52,7 +52,7 @@
             <div id="page_tab_img">
                 <img alt="page icon" src="{{ SITEURL }}/static/{{ page.slug }}.png">
             </div>
-            <p class="page_tab_text">Beliefs</p>
+            <p class="page_tab_text">{{ page.title }}</p>
         </div>
         {% import 'includes/translations.html' as translations with context %}
         {{ translations.translations_for(page) }}
