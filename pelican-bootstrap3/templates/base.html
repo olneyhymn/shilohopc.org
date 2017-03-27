@@ -121,7 +121,7 @@
                 <span class="icon-bar"></span>
             </button>
             {% endif %}
-            <a href="{{ SITEURL }}/" class="navbar-brand float">
+            <a href="{{ SITEURL }}/" class="navbar-brand">
                 {% if SITELOGO %}<img class="img-responsive pull-left gap-right" src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
                 {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
             </a>
@@ -180,7 +180,7 @@
         {% if not HIDE_SIDEBAR or ABOUT_ME or AVATAR %}
         <div class="col-sm-9">
         {% else %}
-        <div class="col-lg-12">
+        <div class="col-md-8 col-md-offset-2">
         {% endif %}
         {% block breadcrumbs %}
         {% endblock %}

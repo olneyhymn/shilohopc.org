@@ -39,33 +39,6 @@
   font-family: @headings-font-family;
 }
 
-// Footer ====================================================================
-
-#footer {
-  background: #36434D;
-  color: #fff;
-  font-size: 16px;
-}
-#footer div {
-}
-#map {
-}
-#map iframe {
-  clear: both;
-  border: 1px solid #009966;
-}
-#map a {
-  margin: 0 0 4px 2px;
-  color: #fff;
-  font-size: 12px;
-  text-transform: uppercase;
-}
-#map a:hover {
-  color: #009966;
-}
-
-
-
 .btn-default,
 .btn-default:hover {
   .btn-shadow(@btn-default-bg);
@@ -99,7 +72,7 @@
 // Typography =================================================================
 
 body {
-  font-weight: 200;
+  font-weight: normal;
 }
 
 // Tables =====================================================================
@@ -204,3 +177,77 @@ label {
 // Progress bars ==============================================================
 
 // Containers =================================================================
+
+// Footer ====================================================================
+
+#footer {
+  background: #36434D;
+  color: #fff;
+  font-size: 16px;
+}
+#footer div {
+}
+#map {
+}
+#map iframe {
+  clear: both;
+  border: 1px solid #009966;
+}
+#map a {
+  margin: 0 0 4px 2px;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+#map a:hover {
+  color: #009966;
+}
+
+.menu-footer-container {
+  padding-top: 20px;
+}
+
+.spacer{
+  margin-top: 25px;
+}
+
+.entry-content li {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: @screen-md) {
+   .mobile-hide{ display: none !important; }
+}
+
+#page_tab {
+  position: fixed;
+  top: 250px;
+  left: 0;
+  width: 101px;
+  height: 101px;
+  background: #4CB794;
+  text-align: center;
+  color: #fff;
+}
+
+#page_tab_img {
+  position: absolute;
+  width: 101px;
+  top: 10px;
+}
+.page_tab_text {
+  position: absolute;
+  width: 101px;
+  bottom: 10px;
+  left: 0px;
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
