@@ -42,6 +42,7 @@ PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['i18n_subsites', 'assets']
 WEBASSETS = True
 BOOTSTRAP_FLUID = False
+FAVICON = "static/favicon.ico"
 
 
 CUSTOM_CSS = 'static/custom.css'
