@@ -2,8 +2,6 @@
 
 {% block content %}
     <section id="content" class="body">
-
-
         <div id="page_tab" class="mobile-hide">
             <div id="page_tab_img">
                 <img alt="page icon" src="{{ SITEURL }}/static/{{ page.slug }}.png">
@@ -11,6 +9,7 @@
             <p class="page_tab_text">{{ page.title }}</p>
         </div>
         <div class="entry-content">
+            <h1>Our Leadership</h1>
             {% for officer in OFFICERS %}
                 <div class="row">
                     <div class="col-xs-3 thumbnail profile_pic">

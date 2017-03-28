@@ -1,0 +1,26 @@
+{% extends "page.html" %}
+
+{% block content %}
+    <section id="content" class="body">
+        {{ page.content }}
+
+    <h1>Past Conferences</h1>
+    {% for event in CONFERENCES %}
+        <div class="panel panel-primary">
+          <div class="panel-heading"><big>{{ event[0] }}</big><br />{{ event[1]}}
+          </div>
+          <div class="panel-body">
+            <p><em>{{ event[2] }}</em></p>
+            <p>{{ event[3] }} </p>
+          </div>
+          <div class="panel-footer">
+            <a href="{{ event[4] }}">
+                <i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;
+                Audio Recordings
+            </a>
+
+        </div>
+        </div>
+    {% endfor %}
+    </section>
+{% endblock %}
