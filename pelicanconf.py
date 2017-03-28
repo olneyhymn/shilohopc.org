@@ -43,6 +43,10 @@ PLUGINS = ['i18n_subsites', 'assets']
 WEBASSETS = True
 BOOTSTRAP_FLUID = False
 FAVICON = "static/favicon.ico"
+CATEGORIES_SAVE_AS = None
+TAGS_SAVE_AS = None
+AUTHORS_SAVE_AS = None
+ARCHIVES_SAVE_AS = None
 
 
 CUSTOM_CSS = 'static/custom.css'
