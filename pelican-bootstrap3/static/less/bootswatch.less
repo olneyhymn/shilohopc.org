@@ -224,14 +224,21 @@ label {
 
 // Footer ====================================================================
 
-#footer, #footer li {
+.footer_wrap {
   background: #36434D;
-  color: #fff;
+}
+
+#footer li {
+  color: @gray-lighter;
   font-size: 16px;
 }
 
 #footer a {
   color: #fff;
+}
+
+#footer h3, #footer p {
+  color: @gray-lighter;
 }
 #footer a:hover {
   color: #009966;
@@ -356,6 +363,10 @@ h2.page_head {
   border: 1px solid #009966;
   padding: 30px;
   border-left: 0;
+}
+
+.info_table {
+  margin-left: auto;
 }
 
 .green_box h2{
