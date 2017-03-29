@@ -150,6 +150,14 @@
                         </li>
                     {% endfor %}
                 {% endif %}
+                <li class="dropdown hidden-sm">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                    {% for url, icon, name in CONNECT %}
+                        <li><a href="{{ url }}"><i class="fa fa-{{ icon }} fa-lg"></i> {{ name }}</a></li>
+                    {% endfor %}
+                    </ul>
+                </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
             {% if 'tipue_search' in PLUGINS %}

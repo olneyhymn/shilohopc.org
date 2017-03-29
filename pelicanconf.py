@@ -87,3 +87,11 @@ CONFERENCES = [
      "Dr. Allen Curry on Evangelism and Dr. Andrew Hoffecker on Building a Christian Worldview. Sessions on Friday evening starting at 6:30 PM and Saturday morning at 9 AM. Sunday morning worship and Sunday school with both men.", "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=shiloh&keyword=Reformation+Conference+2016&keyworddesc=Reformation+Conference+2016"),
     ("2016 Missions Conference", "Go Into All the World", "Speakers: Nick Batzig and Eric Hausler", "Church planters Nick Batzig and Eric Hausler speak on evangelism, outreach, and planting reformed churches.", "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=shiloh&keyword=2017+Missions+Conference&keyworddesc=2017+Missions+Conference"),
 ]
+CONNECT = [("http://www.sermonaudio.com/source_detail.asp?sourceid=shiloh", "volume-up", "SermonAudio.com"),
+("https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw", "youtube", "YouTube"),
+("http://www.twitter.com/shilohopc", "twitter-square", "Twitter"),
+("http://www.facebook.com/shilohopc", "facebook-square", "Facebook"),
+("https://www.instagram.com/shilohopc", "instagram", "Instagram"),
+("tel:(919)578-1331", "phone", "(919) 578-1331"),
+("mailto:info@shilohopc.org", "envelope", "info@shilohopc.org"),
+]

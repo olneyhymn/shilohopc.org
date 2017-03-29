@@ -1,25 +1,33 @@
 <div class="footer_wrap">
 <div class="container" id="footer">
-  <div class="row spacer">
+    <div class="col-sm-12" style="list-style-type: none;margin: 0;padding: 0;overflow: hidden;text-align:center;">
+      <li  style="display: inline-block;"><a  style="text-align: center;padding: 16px; href="/" >Welcome</a></li>
+      {% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
+        {% if p.url %}
+         <li style="display: inline-block;">
+            <a href="{{ SITEURL }}/{{ p.url }}" style="text-align: center;padding: 16px;">
+             {{ p.menulabel|default(p.title) }}
+          </a></li>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <hr />
     <div id="footer_right" class="col-sm-3 col-xs-6">
         <ul id="menu-footer">
           <h3>Shiloh Presbyterian Church</h3>
           <p>Join us Sunday at 9:30 AM and 5:30 PM at
              <a href="https://www.google.com/maps?ll=35.805924,-78.632972&z=14&t=m&hl=en-US&gl=US&mapclient=embed&q=524+E+Whitaker+Mill+Rd+Raleigh,+NC+27608">
-                                    524 E Whitaker Mill Rd. Raleigh, NC 27608
-                                    </a>.
+                                    524 E Whitaker Mill Rd. Raleigh, NC 27608</a>.
           </p>
 
     </div>
     <div id="footer_mid" class="col-sm-3 col-xs-6">
       <div id="footer_contact_info">
-        <h3>Contact Us</h3>
+        <h3>Connect with Us</h3>
         <ul>
-            <li><a href="http://www.twitter.com/shilohopc"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
-            <li><a href="http://www.facebook.com/shilohopc"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
-            <li><a href="https://www.instagram.com/shilohopc"><i class="fa fa-instagram fa-lg"></i> Instagram</a></li>
-            <li><a href="tel:(919)578-1331"><i class="fa fa-phone fa-lg"></i> (919) 578-1331</li></a>
-            <li><a href="mailto:info@shilohopc.org"><i class="fa fa-envelope fa-lg"></i> info@shilohopc.org</a></li>
+            {% for url, icon, name in CONNECT %}
+              <li><a href="{{ url }}"><i class="fa fa-{{ icon }} fa-lg"></i> {{ name }}</a></li>
+            {% endfor %}
         </ul>
 
         <div id="copyright">
@@ -32,7 +40,5 @@
         <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.732371224443!2d-78.632541!3d35.806503000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f35a3d9443f%3A0x92936c95cf057be0!2s524+E+Whitaker+Mill+Rd!5e0!3m2!1sen!2sus!4v1396207905862" width="530" height="255" frameborder="0" style="border:0"></iframe>
       </div>
     </div>
-  </div>
-</div>
-</div>
+  </div> </div>
 <!-- end of footer -->
