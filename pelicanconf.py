@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'admin'
-SITENAME = u'Shiloh Presbyterian Church'
+SITENAME = u'Shiloh Presbyterian Church | Raleigh, NC'
 SITEURL = ''
 
 PATH = 'content'
