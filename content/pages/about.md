@@ -25,13 +25,13 @@ All members of Shiloh are assigned an elder who regularly checks in on them. We 
 ## Our History
 
 
-<img class="img_right thumbnail" style="max-width:400px;float:right;margin:5px;" src="/static/gym.jpg">
+<img class="img_right thumbnail img_right" style="max-width:400px;margin:5px;" src="/static/gym.jpg">
 
 Shiloh Presbyterian Church began meeting in Cary, North Carolina in June 2010 as a mission work of the Orthodox Presbyterian Church (OPC). From the outset, the vision was well-defined: faithful, clear, God-centered preaching in the context of Reformed worship for the building up of the saints and the conversion of the lost.
 
 Shiloh initially enjoyed many months of regularly rotating preachers. Many men gave innumerable hours of labor to the fledgling congregation. Most of those who worked so hard (both in and out of the pulpit) had affiliations with Greenville Presbyterian Theological Seminary in Greenville, SC.
 
-<img class="pull_right thumbnail" style="max-width:320px;margin:5px;float:left;" src="/static/fluhrer.jpg">
+<img class="pull_right thumbnail img_left" style="max-width:320px;margin:5px;" src="/static/fluhrer.jpg">
 
 By March 2011, in the Lord’s providence, Pastor Gabriel Fluhrer became known to the pulpit search committee as a potential pastoral candidate. After a number of visits to North Carolina, it became very clear to both the members of Shiloh and Pastor Fluhrer, that the Lord had placed His call on this man to Shiloh’s pulpit. By May of 2012, Pastor Fluhrer was installed as the organizing pastor of Shiloh OPC. He fervently advocates the original vision of the church: the pre-eminence of God-centered preaching, the distinctives of Reformed theology, and their outflow in Reformed worship.
 
@@ -39,12 +39,12 @@ In February 2013, Shiloh Presbyterian Church moved from being a mission work to 
 
 In April 2014, Shiloh called Reverend Irfon Hughes, previously retired from the Presbyterian Church in America (PCA), to serve as associate pastor.
 
-<img class="pull_right thumbnail" style="max-width:320px;margin:5px;float:right;" src="/static/irfon.jpg">
+<img class="pull_right thumbnail img_right" style="max-width:320px;margin:5px;" src="/static/irfon.jpg">
 
 That same month, we began meeting at our current location on E. Whitaker Mill Road, in the Five Points district of Raleigh. After meeting for almost four years at an elementary school in Cary, the Lord blessed us with the ability to purchase a permanent location a mile north of downtown Raleigh. Our current facility is in the middle of a neighborhood–just where we want to be in order to minister to those around us! The facility underwent a dramatic facelift during five weeks of church workdays and the blood, sweat and tears (mostly of babies) served to transform the church building into a beautiful, light-filled meeting place. Our desire is for the ministry out of this building to be a beacon of hope to the lost, comfort to the weary, and encouragement to those on the journey. In sum, Shiloh seeks to make Jesus more beautiful and believable to the unconvinced and convinced in Raleigh and beyond!
 
 
-<img class="pull_right thumbnail" style="max-width:320px;margin:5px;float:left;" src="/static/holst.jpg">
+<img class="pull_right thumbnail img_left" style="max-width:320px;margin:5px;" src="/static/holst.jpg">
 
 In August 2015, Pastor Fluhrer resigned to accept another ministerial call. In May 2016, Reverend Matthew Holst, formerly of Geneva OPC in Woodstock, GA, was installed as senior pastor of Shiloh. Pastor Hughes continues as associate pastor.
 
