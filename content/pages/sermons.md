@@ -3,10 +3,10 @@ Slug: sermons
 Author:
 
 <div class="row">
-<div class="col-lg-6 col-md-12">
+<div class="col-lg-5 col-md-12">
 <h3>Video Recordings</h3>
 
-You can watch our sermons, Sunday school lessons, and conferences on our <a href="https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw">Youtube Page</a>
+You can watch our sermons, Sunday school lessons, and conferences on our <a href="https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw">Youtube Page</a>.
 
 <h4>Morning Sermon Series</h4>
 
@@ -21,13 +21,12 @@ You can watch our sermons, Sunday school lessons, and conferences on our <a href
 </div>
 
 </div>
-<div class="col-lg-6 col-md-12">
+<div class="col-lg-7 col-md-12">
 
 <h3>Audio Recordings</h3>
 
 <div class="well">
-<SCRIPT type="text/javascript">
-  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&hideheader=false&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
+<!--Begin SermonAudio Link Button--><SCRIPT LANGUAGE="JavaScript" type="text/javascript">document.write("<" + "script  src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&style=2&hideheader=false&hidelogo=false&alwaysbible=false&rows=30&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT><!--End SermonAudio Link Button-->
 </div>
 
 </div>
