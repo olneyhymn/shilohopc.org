@@ -2,9 +2,11 @@ Title: Sermons
 Slug: sermons
 Author:
 
+<div class="row">
+<div class="col-lg-6 col-md-12">
 <h3>Video Recordings</h3>
 
-You can watch our sermons, Sunday school lessons, and conferences on our [YouTube page](https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw).
+You can watch our sermons, Sunday school lessons, and conferences on our <a href="https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw">Youtube Page</a>
 
 <h4>Morning Sermon Series</h4>
 
@@ -18,9 +20,15 @@ You can watch our sermons, Sunday school lessons, and conferences on our [YouTub
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXqNhbObfqJrV5Tt1CPf033OukUiDY09Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
+</div>
+<div class="col-lg-6 col-md-12">
+
 <h3>Audio Recordings</h3>
 
 <div class="well">
 <SCRIPT type="text/javascript">
   document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&hideheader=false&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
+</div>
+
+</div>
 </div>
