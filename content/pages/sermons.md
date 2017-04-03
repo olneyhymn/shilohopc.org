@@ -6,7 +6,7 @@ Author:
 <div class="col-lg-5 col-md-12">
 <h3>Video Recordings</h3>
 
-You can watch our sermons, Sunday school lessons, and conferences on our <a href="https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw">Youtube Page</a>.
+You can watch our sermons, Sunday school lessons, and conferences on our <a href="https://www.youtube.com/channel/UCk0RaoXLCsZHd0Z8FrHa5aw">YouTube Page</a>.
 
 <h4>Morning Sermon Series</h4>
 
@@ -26,6 +26,8 @@ You can watch our sermons, Sunday school lessons, and conferences on our <a href
 <h3>Audio Recordings</h3>
 
 Recordings of our sermons are available on our <a href="http://www.sermonaudio.com/source_detail.asp?sourceid=shiloh">sermonaudio.com page</a>.
+
+<h4>Recent Sermons</h4>
 
 <div class="well">
 <SCRIPT type="text/javascript">
