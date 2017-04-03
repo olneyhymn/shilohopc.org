@@ -31,7 +31,7 @@ Recordings of our sermons are available on our <a href="http://www.sermonaudio.c
 
 <div class="well">
 <SCRIPT type="text/javascript">
-  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&rows=10&hideheader=true&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
+  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&hidesort=true&rows=10&hideheader=true&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
 </div>
 
 </div>
