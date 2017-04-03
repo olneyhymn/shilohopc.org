@@ -25,9 +25,11 @@ You can watch our sermons, Sunday school lessons, and conferences on our <a href
 
 <h3>Audio Recordings</h3>
 
+Recordings of our sermons are available on our <a href="http://www.sermonaudio.com/source_detail.asp?sourceid=shiloh">sermonaudio.com page</a>.
+
 <div class="well">
 <SCRIPT type="text/javascript">
-  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&hideheader=false&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
+  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&rows=10&hideheader=true&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
 </div>
 
 </div>
