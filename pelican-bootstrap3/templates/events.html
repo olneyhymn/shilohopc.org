@@ -12,13 +12,18 @@
           <div class="panel-body">
             <p><em>{{ event[2] }}</em></p>
             <p>{{ event[3] }} </p>
+
+            {% if event|length >= 6 %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list={{ event[5] }}" frameborder="0" class="embed-responsive-item" allowfullscreen></iframe>
+            </div>
+            {% endif %}
           </div>
           <div class="panel-footer">
             <a href="{{ event[4] }}">
                 <i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;
                 Audio Recordings
             </a>
-
         </div>
         </div>
     {% endfor %}
