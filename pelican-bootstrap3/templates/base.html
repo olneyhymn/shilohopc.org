@@ -184,10 +184,10 @@
 <!-- End Banner -->
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %} main_container">
     <div class="row">
-        {% if not HIDE_SIDEBAR or ABOUT_ME or AVATAR %}
-        <div class="col-sm-9">
+        {% if page.wide_page %}
+            <div class="col-md-10 col-md-offset-1">
         {% else %}
-        <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-8 col-md-offset-2">
         {% endif %}
         {% block breadcrumbs %}
         {% endblock %}
