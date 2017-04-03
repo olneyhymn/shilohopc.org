@@ -26,7 +26,8 @@ You can watch our sermons, Sunday school lessons, and conferences on our <a href
 <h3>Audio Recordings</h3>
 
 <div class="well">
-<!--Begin SermonAudio Link Button--><SCRIPT LANGUAGE="JavaScript" type="text/javascript">document.write("<" + "script  src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&style=2&hideheader=false&hidelogo=false&alwaysbible=false&rows=30&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT><!--End SermonAudio Link Button-->
+<SCRIPT type="text/javascript">
+  document.write("<" + "script src='http://www.sermonaudio.com/code_sermonlist.asp?sourceid=shiloh&hideheader=false&sourcehref=" + escape(location.href) + "'><","/script>");</SCRIPT>
 </div>
 
 </div>
