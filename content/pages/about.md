@@ -46,5 +46,5 @@ That same month, we began meeting at our current location on E. Whitaker Mill Ro
 
 <img class="pull_right thumbnail img_left" style="max-width:320px;margin:5px;" src="/static/holst.jpg">
 
-In August 2015, Pastor Fluhrer resigned to accept another ministerial call. In May 2016, Reverend Matthew Holst, formerly of Geneva OPC in Woodstock, GA, was installed as senior pastor of Shiloh. Pastor Hughes continues as associate pastor.
+In August 2015, Pastor Fluhrer resigned to accept another ministerial call. In May 2016, Reverend Matthew Holst, formerly of Geneva OPC in Woodstock, GA, was installed as senior pastor of Shiloh. In May 2017, Pastor Irfon Hughes retired as a pastor of Shiloh; he remains a member of our Session.
 
