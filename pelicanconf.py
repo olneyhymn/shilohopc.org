@@ -73,7 +73,7 @@ OFFICERS = [("Matthew Holst", "matthew.holst@shilohopc.org", "Matthew Holst serv
             ("Pete Tola", "pete.tola@shilohopc.org",
              "Pete Tola is a Raleigh native, Navy veteran and a graduate of NC State.  He welcomes the opportunity to serve alongside the body of believers called Shiloh. \"They that profess themselves to be Christ's are known not only by what they say, but by what they practice.  For the tree is known by its fruits.\" - Ignatius", "Deacon", 'tola'),
             ("Tim Hopper", "tim.hopper@shilohopc.org",
-             "Tim Hopper moved to the area in 2010 for graduate school and started worshipping at Shiloh a few weeks after it was started. He works as a statistician and computer programmer. Tim and his wife Maggie live in Raleigh.", "Deacon", 'hopper'),
+             "Tim Hopper moved to the area in 2010 for graduate school and started worshipping at Shiloh a few weeks after it was started. He works as a statistician and computer programmer. Tim lives in Raleigh with his wife Maggie and their son.", "Deacon", 'hopper'),
             ]
 CONFERENCES = [
     ("2016 Missions Conference",
