@@ -37,7 +37,7 @@ Template: events
   <div class="panel-heading"><big>Men's Fellowship</big>
   </div>
   <div class="panel-body">
-    The men of the church gather on the first Friday of each month for a home cooked meal and a lesson from the Sermon on the Mount taught by Pastor Holst. Please contact <a href="mailto:matt.holst@gmail.com">Pastor Holst</a> for more information.
+    The men of the church gather on the first Friday of each month for a home cooked meal and a lesson from the Sermon on the Mount taught by Pastor Holst. Please contact <a href="mailto:matholst@gmail.com">Pastor Holst</a> for more information.
   </div>
   <div class="panel-footer">
     <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;
@@ -51,7 +51,7 @@ Template: events
   <div class="panel-heading"><big>Regional Fellowship Groups</big>
   </div>
   <div class="panel-body">
-    We have fellowship groups that gather in the homes of our members around the Triangle every other week during the school year. Please contact <a href="mailto:matt.holst@gmail.com">Pastor Holst</a> or speak with one of the elders for more information.
+    We have fellowship groups that gather in the homes of our members around the Triangle every other week during the school year. Please contact <a href="mailto:matholst@gmail.com">Pastor Holst</a> or speak with one of the elders for more information.
   </div>
   <div class="panel-footer">
     <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;
