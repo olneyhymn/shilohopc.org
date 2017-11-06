@@ -76,6 +76,12 @@ OFFICERS = [("Matthew Holst", "matthew.holst@shilohopc.org", "Matthew Holst serv
              "Tim Hopper moved to the area in 2010 for graduate school and started worshipping at Shiloh a few weeks after it was started. He works as a statistician and computer programmer. Tim lives in Raleigh with his wife Maggie and their son.", "Deacon", 'hopper'),
             ]
 CONFERENCES = [
+    ("2017 Reformation Conference",
+     "The Means of Grace",
+     "Speaker: Joseph Pipa",
+     "Dr. Joseph Pipa speaks on God's means of grace: preaching, prayer, and the sacraments.",
+     "https://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=shiloh&keyword=Reformation+Conference+2017&keyworddesc=Reformation+Conference+2017",
+     "PLXqNhbObfqJrIBx8hvGMrc10HsYwUGMmu"),
     ("2016 Missions Conference",
      "Go Into All the World",
      "Speakers: Nick Batzig and Eric Hausler",
